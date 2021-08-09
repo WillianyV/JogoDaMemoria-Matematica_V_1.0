@@ -1,0 +1,8 @@
+Resource/Imagens/Cartas/div.png
+Resource/Imagens/Cartas/div.png
+Resource/Imagens/Cartas/mult.png
+Resource/Imagens/Cartas/mult.png
+Resource/Imagens/Cartas/soma.png
+Resource/Imagens/Cartas/soma.png
+Resource/Imagens/Cartas/sub.png
+Resource/Imagens/Cartas/sub.png
